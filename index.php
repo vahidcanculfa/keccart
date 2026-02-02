@@ -440,7 +440,7 @@ $slides = [
             <a href="index.php?filter=figur">Figür</a>
             <a href="index.php?filter=hobi">Hobi</a>
             <a href="index.php?filter=din">Din</a>
-            <a href="size-ozel.php">Size Özel</a>
+            <a href="custom-size.php">Size Özel</a>
         </div>
     </section>
 </main>

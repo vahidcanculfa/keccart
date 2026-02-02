@@ -20,7 +20,7 @@
                 <ul class="footer-links">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Tüm Ürünler</a></li>
                     <li><a href="<?php echo BASE_URL; ?>shop/search.php">Arama</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>size-ozel.php">Size Özel</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>custom-size.php">Size Özel</a></li>
                     <li><a href="<?php echo BASE_URL; ?>shop/wishlist.php">Favorilerim</a></li>
                 </ul>
             </div>

@@ -122,7 +122,7 @@ try {
             </a>
         <?php endforeach; ?>
         <a href="<?php echo $root; ?>shop/wishlist.php"><i class="fas fa-heart menu-icon"></i>Favorilerim</a>
-        <a href="<?php echo $root; ?>size-ozel.php"><i class="fas fa-star menu-icon"></i>Size Özel</a>
+        <a href="<?php echo $root; ?>custom-size.php"><i class="fas fa-star menu-icon"></i>Size Özel</a>
     </nav>
 </aside>
 
